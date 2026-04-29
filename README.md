@@ -15,12 +15,6 @@ Guides you through designing and building a skill or agent registry from scratch
 
 Just say _"help me design a skill registry"_ and it triggers automatically.
 
-### `html-builder`
-
-Companion skill. Converts the registry design document into a clean, self-contained HTML file — easy to share or open in a browser.
-
-Used automatically by `skill-registry-builder` at the end of the flow.
-
 ## Installation
 
 Available on:
